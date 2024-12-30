@@ -1,0 +1,3 @@
+,mean_fit_time,mean_test_score,mean_train_score,batch_size,hidden_layer_sizes,learning_rate_init,random_state,best_match_batch_size,best_match_hidden_layer_sizes,best_match_learning_rate_init,best_match_random_state
+0,0.6939023017883301,-0.07679967919807636,-0.0641892706220132,8,"(16,)",0.01,1,True,True,True,True
+1,0.586784029006958,-0.07721959573259439,-0.06418931062193557,8,"(32,)",0.01,1,True,False,True,True
